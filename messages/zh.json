@@ -15,38 +15,38 @@
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "灭绝人类的武器供应处",
+        "description": "各种各样先进武器"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "黄鸭救援处",
+        "description": "治疗受伤同类"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "啦啦队",
+        "description": "后勤加油处"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "指挥中心",
+        "description": "总起策划处"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "黄鸭1号",
+        "content": "好好好，非常好！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "人类伪装",
+        "content": "杀了鸭鸭"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "啦啦队员",
+        "content": "冲鸭！"
       }
     },
     "Header": {
